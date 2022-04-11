@@ -1,0 +1,10 @@
+server14242 = example.com:14242
+server14243 = example.com:14243
+server14244 = example.com:14244
+server14245 = example.com:14245
+server14246 = example.com:14246
+server14247 = example.com:14247
+server14248 = example.com:14248
+server14249 = example.com:14249
+server14250 = example.com:14250
+server14251 = example.com:14251
